@@ -1,0 +1,149 @@
+//Team 1: 
+Player 96 S: 42 v: 0.05259876142549169 RS: 42
+Player 24 S: 49 v: 0.48695006864506013 RS: 35
+Player 99 S: 41 v: 0.26761785798652293 RS: 43
+Player 8 S: 45 v: 0.4380497549195222 RS: 44
+Player 14 S: 44 v: 0.47070238357228394 RS: 23
+///////////////////////
+//Team 2: 
+Player 41 S: 47 v: 0.19083599873179818 RS: 42
+Player 6 S: 53 v: 0.3295432128843757 RS: 42
+Player 86 S: 44 v: 0.2514300163761876 RS: 53
+Player 89 S: 36 v: 0.1797392700032039 RS: 40
+Player 4 S: 56 v: 0.1500382669770361 RS: 58
+Team 1 average Rating: 1135.8176330579674
+Team 2 average Rating: 1177.2811671128431
+///////////////////////
+12 wurde gewürfelt, Player 14 hat 1 bis 33, deshalb gewinnt er.
+Player 4 hat 34 bis 99, deshalb verliert er.
+Player 14 killed Player 4
+Team1 won Round1 Es steht Team1: 1 Team2: 0
+86 wurde gewürfelt, Player 4 hat 44 bis 99, deshalb gewinnt er.
+Player 8 hat 1 bis 43, deshalb verliert er.
+Player 4 killed Player 8
+Team2 won Round2 Es steht Team1: 1 Team2: 1
+36 wurde gewürfelt, Player 8 hat 1 bis 43, deshalb gewinnt er.
+Player 4 hat 44 bis 99, deshalb verliert er.
+Player 8 killed Player 4
+Team1 won Round3 Es steht Team1: 2 Team2: 1
+84 wurde gewürfelt, Player 86 hat 46 bis 99, deshalb gewinnt er.
+Player 99 hat 1 bis 45, deshalb verliert er.
+Player 86 killed Player 99
+Team2 won Round4 Es steht Team1: 2 Team2: 2
+62 wurde gewürfelt, Player 86 hat 47 bis 99, deshalb gewinnt er.
+Player 8 hat 1 bis 46, deshalb verliert er.
+Player 86 killed Player 8
+Team2 won Round5 Es steht Team1: 2 Team2: 3
+74 wurde gewürfelt, Player 86 hat 46 bis 99, deshalb gewinnt er.
+Player 99 hat 1 bis 45, deshalb verliert er.
+Player 86 killed Player 99
+Team2 won Round6 Es steht Team1: 2 Team2: 4
+80 wurde gewürfelt, Player 86 hat 46 bis 99, deshalb gewinnt er.
+Player 96 hat 1 bis 45, deshalb verliert er.
+Player 86 killed Player 96
+Team2 won Round7 Es steht Team1: 2 Team2: 5
+59 wurde gewürfelt, Player 41 hat 52 bis 99, deshalb gewinnt er.
+Player 8 hat 1 bis 51, deshalb verliert er.
+Player 41 killed Player 8
+Team2 won Round8 Es steht Team1: 2 Team2: 6
+48 wurde gewürfelt, Player 6 hat 42 bis 99, deshalb gewinnt er.
+Player 14 hat 1 bis 41, deshalb verliert er.
+Player 6 killed Player 14
+Team2 won Round9 Es steht Team1: 2 Team2: 7
+52 wurde gewürfelt, Player 89 hat 52 bis 99, deshalb gewinnt er.
+Player 96 hat 1 bis 51, deshalb verliert er.
+Player 89 killed Player 96
+Team2 won Round10 Es steht Team1: 2 Team2: 8
+40 wurde gewürfelt, Player 4 hat 40 bis 99, deshalb gewinnt er.
+Player 24 hat 1 bis 39, deshalb verliert er.
+Player 4 killed Player 24
+Team2 won Round11 Es steht Team1: 2 Team2: 9
+58 wurde gewürfelt, Player 41 hat 51 bis 99, deshalb gewinnt er.
+Player 96 hat 1 bis 50, deshalb verliert er.
+Player 41 killed Player 96
+Team2 won Round12 Es steht Team1: 2 Team2: 10
+79 wurde gewürfelt, Player 89 hat 53 bis 99, deshalb gewinnt er.
+Player 8 hat 1 bis 52, deshalb verliert er.
+Player 89 killed Player 8
+Team2 won Round13 Es steht Team1: 2 Team2: 11
+61 wurde gewürfelt, Player 86 hat 46 bis 99, deshalb gewinnt er.
+Player 96 hat 1 bis 45, deshalb verliert er.
+Player 86 killed Player 96
+Team2 won Round14 Es steht Team1: 2 Team2: 12
+10 wurde gewürfelt, Player 99 hat 1 bis 45, deshalb gewinnt er.
+Player 86 hat 46 bis 99, deshalb verliert er.
+Player 99 killed Player 86
+Team1 won Round15 Es steht Team1: 3 Team2: 12
+15 wurde gewürfelt, Player 96 hat 1 bis 42, deshalb gewinnt er.
+Player 4 hat 43 bis 99, deshalb verliert er.
+Player 96 killed Player 4
+Team1 won Round16 Es steht Team1: 4 Team2: 12
+67 wurde gewürfelt, Player 41 hat 48 bis 99, deshalb gewinnt er.
+Player 24 hat 1 bis 47, deshalb verliert er.
+Player 41 killed Player 24
+Team2 won Round17 Es steht Team1: 4 Team2: 13
+86 wurde gewürfelt, Player 86 hat 46 bis 99, deshalb gewinnt er.
+Player 99 hat 1 bis 45, deshalb verliert er.
+Player 86 killed Player 99
+Team2 won Round18 Es steht Team1: 4 Team2: 14
+6 wurde gewürfelt, Player 8 hat 1 bis 43, deshalb gewinnt er.
+Player 4 hat 44 bis 99, deshalb verliert er.
+Player 8 killed Player 4
+Team1 won Round19 Es steht Team1: 5 Team2: 14
+21 wurde gewürfelt, Player 99 hat 1 bis 51, deshalb gewinnt er.
+Player 89 hat 52 bis 99, deshalb verliert er.
+Player 99 killed Player 89
+Team1 won Round20 Es steht Team1: 6 Team2: 14
+23 wurde gewürfelt, Player 8 hat 1 bis 46, deshalb gewinnt er.
+Player 86 hat 47 bis 99, deshalb verliert er.
+Player 8 killed Player 86
+Team1 won Round21 Es steht Team1: 7 Team2: 14
+42 wurde gewürfelt, Player 96 hat 1 bis 50, deshalb gewinnt er.
+Player 41 hat 51 bis 99, deshalb verliert er.
+Player 96 killed Player 41
+Team1 won Round22 Es steht Team1: 8 Team2: 14
+97 wurde gewürfelt, Player 86 hat 47 bis 99, deshalb gewinnt er.
+Player 8 hat 1 bis 46, deshalb verliert er.
+Player 86 killed Player 8
+Team2 won Round23 Es steht Team1: 8 Team2: 15
+68 wurde gewürfelt, Player 86 hat 46 bis 99, deshalb gewinnt er.
+Player 96 hat 1 bis 45, deshalb verliert er.
+Player 86 killed Player 96
+Team2 won Round24 Es steht Team1: 8 Team2: 16
+Team 2 hat gewonnen.
+Player 96 Kills: 14 Deaths: 20
+Player 24 Kills: 16 Deaths: 22
+Player 99 Kills: 23 Deaths: 19
+Player 8 Kills: 23 Deaths: 18
+Player 14 Kills: 7 Deaths: 20
+Player 41 Kills: 17 Deaths: 16
+Player 6 Kills: 15 Deaths: 18
+Player 86 Kills: 28 Deaths: 14
+Player 89 Kills: 20 Deaths: 17
+Player 4 Kills: 19 Deaths: 18
+Elopunkte vor dem Spiel
+Team1: 
+Player 96: 1120.3729200947166
+Player 24: 1179.5066080722045
+Player 99: 1103.8078810302245
+Player 8: 1138.266913454099
+Player 14: 1137.1338426385923
+Team2: 
+Player 41: 1201.9632944322398
+Player 6: 1182.4000229199942
+Player 86: 1133.0241897930946
+Player 89: 1126.8339192363605
+Player 4: 1242.184409182526
+Elopunkte nach dem Spiel
+Team1: 
+Player 96: 1118.1151087904075
+Player 24: 1177.3749314776333
+Player 99: 1102.117675919736
+Player 8: 1136.5767083436106
+Player 14: 1134.4345598502005
+Team2: 
+Player 41: 1203.9090815909447
+Player 6: 1184.2400607765956
+Player 86: 1135.551598113369
+Player 89: 1128.9383303482207
+Player 4: 1244.2359456433344

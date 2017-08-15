@@ -1,0 +1,153 @@
+//Team 1: 
+Player 11 S: 60 v: 0.3448194029783348 RS: 51
+Player 12 S: 57 v: 0.11420658747332307 RS: 50
+Player 80 S: 30 v: 0.18365348612356547 RS: 27
+Player 39 S: 45 v: 0.2863230296652989 RS: 44
+Player 94 S: 63 v: 0.40886056886540717 RS: 37
+///////////////////////
+//Team 2: 
+Player 1 S: 26 v: 0.21070123661281825 RS: 21
+Player 43 S: 51 v: 0.1261268699822778 RS: 46
+Player 71 S: 54 v: 0.04354394173734388 RS: 53
+Player 53 S: 56 v: 0.32498801649096304 RS: 41
+Player 91 S: 60 v: 0.49710733020626 RS: 60
+Team 1 average Rating: 1224.0537682100219
+Team 2 average Rating: 1201.971572304361
+///////////////////////
+31 wurde gewürfelt, Player 12 hat 1 bis 52, deshalb gewinnt er.
+Player 43 hat 53 bis 99, deshalb verliert er.
+Player 12 killed Player 43
+Team1 won Round1 Es steht Team1: 1 Team2: 0
+22 wurde gewürfelt, Player 39 hat 1 bis 42, deshalb gewinnt er.
+Player 91 hat 43 bis 99, deshalb verliert er.
+Player 39 killed Player 91
+Team1 won Round2 Es steht Team1: 2 Team2: 0
+2 wurde gewürfelt, Player 12 hat 1 bis 54, deshalb gewinnt er.
+Player 53 hat 55 bis 99, deshalb verliert er.
+Player 12 killed Player 53
+Team1 won Round3 Es steht Team1: 3 Team2: 0
+54 wurde gewürfelt, Player 43 hat 53 bis 99, deshalb gewinnt er.
+Player 11 hat 1 bis 52, deshalb verliert er.
+Player 43 killed Player 11
+Team2 won Round4 Es steht Team1: 3 Team2: 1
+3 wurde gewürfelt, Player 12 hat 1 bis 52, deshalb gewinnt er.
+Player 43 hat 53 bis 99, deshalb verliert er.
+Player 12 killed Player 43
+Team1 won Round5 Es steht Team1: 4 Team2: 1
+5 wurde gewürfelt, Player 11 hat 1 bis 49, deshalb gewinnt er.
+Player 71 hat 50 bis 99, deshalb verliert er.
+Player 11 killed Player 71
+Team1 won Round6 Es steht Team1: 5 Team2: 1
+54 wurde gewürfelt, Player 11 hat 1 bis 65, deshalb gewinnt er.
+Player 1 hat 66 bis 99, deshalb verliert er.
+Player 11 killed Player 1
+Team1 won Round7 Es steht Team1: 6 Team2: 1
+19 wurde gewürfelt, Player 39 hat 1 bis 46, deshalb gewinnt er.
+Player 71 hat 47 bis 99, deshalb verliert er.
+Player 39 killed Player 71
+Team1 won Round8 Es steht Team1: 7 Team2: 1
+30 wurde gewürfelt, Player 11 hat 1 bis 49, deshalb gewinnt er.
+Player 71 hat 50 bis 99, deshalb verliert er.
+Player 11 killed Player 71
+Team1 won Round9 Es steht Team1: 8 Team2: 1
+22 wurde gewürfelt, Player 11 hat 1 bis 55, deshalb gewinnt er.
+Player 53 hat 56 bis 99, deshalb verliert er.
+Player 11 killed Player 53
+Team1 won Round10 Es steht Team1: 9 Team2: 1
+54 wurde gewürfelt, Player 71 hat 50 bis 99, deshalb gewinnt er.
+Player 12 hat 1 bis 49, deshalb verliert er.
+Player 71 killed Player 12
+Team2 won Round11 Es steht Team1: 9 Team2: 2
+60 wurde gewürfelt, Player 91 hat 46 bis 99, deshalb gewinnt er.
+Player 12 hat 1 bis 45, deshalb verliert er.
+Player 91 killed Player 12
+Team2 won Round12 Es steht Team1: 9 Team2: 3
+83 wurde gewürfelt, Player 53 hat 44 bis 99, deshalb gewinnt er.
+Player 80 hat 1 bis 43, deshalb verliert er.
+Player 53 killed Player 80
+Team2 won Round13 Es steht Team1: 9 Team2: 4
+67 wurde gewürfelt, Player 71 hat 47 bis 99, deshalb gewinnt er.
+Player 39 hat 1 bis 46, deshalb verliert er.
+Player 71 killed Player 39
+Team2 won Round14 Es steht Team1: 9 Team2: 5
+99 wurde gewürfelt, Player 71 hat 47 bis 99, deshalb gewinnt er.
+Player 39 hat 1 bis 46, deshalb verliert er.
+Player 71 killed Player 39
+Team2 won Round15 Es steht Team1: 9 Team2: 6
+32 wurde gewürfelt, Player 39 hat 1 bis 49, deshalb gewinnt er.
+Player 43 hat 50 bis 99, deshalb verliert er.
+Player 39 killed Player 43
+Team1 won Round16 Es steht Team1: 10 Team2: 6
+52 wurde gewürfelt, Player 11 hat 1 bis 52, deshalb gewinnt er.
+Player 43 hat 53 bis 99, deshalb verliert er.
+Player 11 killed Player 43
+Team1 won Round17 Es steht Team1: 11 Team2: 6
+56 wurde gewürfelt, Player 53 hat 44 bis 99, deshalb gewinnt er.
+Player 80 hat 1 bis 43, deshalb verliert er.
+Player 53 killed Player 80
+Team2 won Round18 Es steht Team1: 11 Team2: 7
+6 wurde gewürfelt, Player 94 hat 1 bis 58, deshalb gewinnt er.
+Player 1 hat 59 bis 99, deshalb verliert er.
+Player 94 killed Player 1
+Team1 won Round19 Es steht Team1: 12 Team2: 7
+71 wurde gewürfelt, Player 71 hat 38 bis 99, deshalb gewinnt er.
+Player 80 hat 1 bis 37, deshalb verliert er.
+Player 71 killed Player 80
+Team2 won Round20 Es steht Team1: 12 Team2: 8
+22 wurde gewürfelt, Player 12 hat 1 bis 64, deshalb gewinnt er.
+Player 1 hat 65 bis 99, deshalb verliert er.
+Player 12 killed Player 1
+Team1 won Round21 Es steht Team1: 13 Team2: 8
+61 wurde gewürfelt, Player 71 hat 50 bis 99, deshalb gewinnt er.
+Player 12 hat 1 bis 49, deshalb verliert er.
+Player 71 killed Player 12
+Team2 won Round22 Es steht Team1: 13 Team2: 9
+47 wurde gewürfelt, Player 12 hat 1 bis 54, deshalb gewinnt er.
+Player 53 hat 55 bis 99, deshalb verliert er.
+Player 12 killed Player 53
+Team1 won Round23 Es steht Team1: 14 Team2: 9
+13 wurde gewürfelt, Player 39 hat 1 bis 49, deshalb gewinnt er.
+Player 43 hat 50 bis 99, deshalb verliert er.
+Player 39 killed Player 43
+Team1 won Round24 Es steht Team1: 15 Team2: 9
+23 wurde gewürfelt, Player 94 hat 1 bis 39, deshalb gewinnt er.
+Player 91 hat 40 bis 99, deshalb verliert er.
+Player 94 killed Player 91
+Team1 won Round25 Es steht Team1: 16 Team2: 9
+Team 1 hat gewonnen.
+Player 11 Kills: 23 Deaths: 17
+Player 12 Kills: 29 Deaths: 16
+Player 80 Kills: 12 Deaths: 20
+Player 39 Kills: 25 Deaths: 18
+Player 94 Kills: 21 Deaths: 21
+Player 1 Kills: 10 Deaths: 23
+Player 43 Kills: 12 Deaths: 23
+Player 71 Kills: 23 Deaths: 20
+Player 53 Kills: 25 Deaths: 22
+Player 91 Kills: 22 Deaths: 22
+Elopunkte vor dem Spiel
+Team1: 
+Player 11: 1277.7394470620932
+Player 12: 1249.0078440168977
+Player 80: 1036.2188018335125
+Player 39: 1185.75431274365
+Player 94: 1371.5484353939557
+Team2: 
+Player 1: 979.929105168127
+Player 43: 1226.7508432005025
+Player 71: 1222.4498385964084
+Player 53: 1245.5299299163428
+Player 91: 1335.1981446404247
+Elopunkte nach dem Spiel
+Team1: 
+Player 11: 1280.7494362145994
+Player 12: 1252.4191650564046
+Player 80: 1038.4930158598506
+Player 39: 1188.898079191823
+Player 94: 1374.424647250795
+Team2: 
+Player 1: 976.3142099830399
+Player 43: 1223.2958991297996
+Player 71: 1219.8746256548197
+Player 53: 1243.1146680891386
+Player 91: 1332.542956141644

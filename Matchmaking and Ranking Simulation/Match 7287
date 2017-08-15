@@ -1,0 +1,149 @@
+//Team 1: 
+Player 55 S: 50 v: 0.19387276701390954 RS: 47
+Player 76 S: 48 v: 0.034516723617528944 RS: 48
+Player 9 S: 48 v: 0.19870332789017225 RS: 54
+Player 34 S: 54 v: 0.3122947453353749 RS: 49
+Player 37 S: 59 v: 0.16497229522911339 RS: 60
+///////////////////////
+//Team 2: 
+Player 16 S: 39 v: 0.02858526414993362 RS: 39
+Player 75 S: 54 v: 0.13041421998199654 RS: 60
+Player 13 S: 62 v: 0.3239157575760824 RS: 79
+Player 35 S: 37 v: 0.11478182717151836 RS: 39
+Player 11 S: 60 v: 0.3448194029783348 RS: 79
+Team 1 average Rating: 1202.371683589348
+Team 2 average Rating: 1200.8873490848084
+///////////////////////
+35 wurde gewürfelt, Player 37 hat 1 bis 60, deshalb gewinnt er.
+Player 35 hat 61 bis 99, deshalb verliert er.
+Player 37 killed Player 35
+Team1 won Round1 Es steht Team1: 1 Team2: 0
+15 wurde gewürfelt, Player 76 hat 1 bis 54, deshalb gewinnt er.
+Player 35 hat 55 bis 99, deshalb verliert er.
+Player 76 killed Player 35
+Team1 won Round2 Es steht Team1: 2 Team2: 0
+59 wurde gewürfelt, Player 75 hat 46 bis 99, deshalb gewinnt er.
+Player 34 hat 1 bis 45, deshalb verliert er.
+Player 75 killed Player 34
+Team2 won Round3 Es steht Team1: 2 Team2: 1
+72 wurde gewürfelt, Player 11 hat 36 bis 99, deshalb gewinnt er.
+Player 34 hat 1 bis 35, deshalb verliert er.
+Player 11 killed Player 34
+Team2 won Round4 Es steht Team1: 2 Team2: 2
+67 wurde gewürfelt, Player 75 hat 45 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 44, deshalb verliert er.
+Player 75 killed Player 55
+Team2 won Round5 Es steht Team1: 2 Team2: 3
+50 wurde gewürfelt, Player 75 hat 45 bis 99, deshalb gewinnt er.
+Player 76 hat 1 bis 44, deshalb verliert er.
+Player 75 killed Player 76
+Team2 won Round6 Es steht Team1: 2 Team2: 4
+10 wurde gewürfelt, Player 76 hat 1 bis 54, deshalb gewinnt er.
+Player 16 hat 55 bis 99, deshalb verliert er.
+Player 76 killed Player 16
+Team1 won Round7 Es steht Team1: 3 Team2: 4
+25 wurde gewürfelt, Player 34 hat 1 bis 35, deshalb gewinnt er.
+Player 13 hat 36 bis 99, deshalb verliert er.
+Player 34 killed Player 13
+Team1 won Round8 Es steht Team1: 4 Team2: 4
+10 wurde gewürfelt, Player 37 hat 1 bis 50, deshalb gewinnt er.
+Player 75 hat 51 bis 99, deshalb verliert er.
+Player 37 killed Player 75
+Team1 won Round9 Es steht Team1: 5 Team2: 4
+98 wurde gewürfelt, Player 16 hat 55 bis 99, deshalb gewinnt er.
+Player 76 hat 1 bis 54, deshalb verliert er.
+Player 16 killed Player 76
+Team2 won Round10 Es steht Team1: 5 Team2: 5
+67 wurde gewürfelt, Player 11 hat 35 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 34, deshalb verliert er.
+Player 11 killed Player 55
+Team2 won Round11 Es steht Team1: 5 Team2: 6
+71 wurde gewürfelt, Player 13 hat 35 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 34, deshalb verliert er.
+Player 13 killed Player 55
+Team2 won Round12 Es steht Team1: 5 Team2: 7
+79 wurde gewürfelt, Player 35 hat 55 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 54, deshalb verliert er.
+Player 35 killed Player 55
+Team2 won Round13 Es steht Team1: 5 Team2: 8
+87 wurde gewürfelt, Player 13 hat 36 bis 99, deshalb gewinnt er.
+Player 76 hat 1 bis 35, deshalb verliert er.
+Player 13 killed Player 76
+Team2 won Round14 Es steht Team1: 5 Team2: 9
+33 wurde gewürfelt, Player 34 hat 1 bis 55, deshalb gewinnt er.
+Player 16 hat 56 bis 99, deshalb verliert er.
+Player 34 killed Player 16
+Team1 won Round15 Es steht Team1: 6 Team2: 9
+88 wurde gewürfelt, Player 11 hat 42 bis 99, deshalb gewinnt er.
+Player 37 hat 1 bis 41, deshalb verliert er.
+Player 11 killed Player 37
+Team2 won Round16 Es steht Team1: 6 Team2: 10
+63 wurde gewürfelt, Player 13 hat 36 bis 99, deshalb gewinnt er.
+Player 34 hat 1 bis 35, deshalb verliert er.
+Player 13 killed Player 34
+Team2 won Round17 Es steht Team1: 6 Team2: 11
+90 wurde gewürfelt, Player 35 hat 55 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 54, deshalb verliert er.
+Player 35 killed Player 55
+Team2 won Round18 Es steht Team1: 6 Team2: 12
+51 wurde gewürfelt, Player 13 hat 36 bis 99, deshalb gewinnt er.
+Player 34 hat 1 bis 35, deshalb verliert er.
+Player 13 killed Player 34
+Team2 won Round19 Es steht Team1: 6 Team2: 13
+36 wurde gewürfelt, Player 9 hat 1 bis 38, deshalb gewinnt er.
+Player 13 hat 39 bis 99, deshalb verliert er.
+Player 9 killed Player 13
+Team1 won Round20 Es steht Team1: 7 Team2: 13
+66 wurde gewürfelt, Player 16 hat 55 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 54, deshalb verliert er.
+Player 16 killed Player 55
+Team2 won Round21 Es steht Team1: 7 Team2: 14
+24 wurde gewürfelt, Player 55 hat 1 bis 44, deshalb gewinnt er.
+Player 75 hat 45 bis 99, deshalb verliert er.
+Player 55 killed Player 75
+Team1 won Round22 Es steht Team1: 8 Team2: 14
+77 wurde gewürfelt, Player 13 hat 35 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 34, deshalb verliert er.
+Player 13 killed Player 55
+Team2 won Round23 Es steht Team1: 8 Team2: 15
+94 wurde gewürfelt, Player 35 hat 55 bis 99, deshalb gewinnt er.
+Player 55 hat 1 bis 54, deshalb verliert er.
+Player 35 killed Player 55
+Team2 won Round24 Es steht Team1: 8 Team2: 16
+Team 2 hat gewonnen.
+Player 55 Kills: 16 Deaths: 22
+Player 76 Kills: 15 Deaths: 21
+Player 9 Kills: 8 Deaths: 18
+Player 34 Kills: 27 Deaths: 21
+Player 37 Kills: 17 Deaths: 19
+Player 16 Kills: 15 Deaths: 18
+Player 75 Kills: 19 Deaths: 15
+Player 13 Kills: 32 Deaths: 16
+Player 35 Kills: 13 Deaths: 16
+Player 11 Kills: 22 Deaths: 18
+Elopunkte vor dem Spiel
+Team1: 
+Player 55: 1224.2188346404819
+Player 76: 1199.490616085126
+Player 9: 1172.808495417283
+Player 34: 1192.9386161624923
+Player 37: 1222.4018556413575
+Team2: 
+Player 16: 1141.3964358724365
+Player 75: 1216.0440752555253
+Player 13: 1323.5697206978339
+Player 35: 1059.5055215924895
+Player 11: 1263.9209920057563
+Elopunkte nach dem Spiel
+Team1: 
+Player 55: 1219.5396612003833
+Player 76: 1194.673005561001
+Player 9: 1167.0218253049718
+Player 34: 1189.7822506466862
+Player 37: 1217.8611192852857
+Team2: 
+Player 16: 1145.4009683941401
+Player 75: 1220.5036682910588
+Player 13: 1329.5082604033148
+Player 35: 1063.2825238572782
+Player 11: 1268.7218804266624

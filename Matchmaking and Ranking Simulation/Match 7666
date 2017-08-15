@@ -1,0 +1,149 @@
+//Team 1: 
+Player 56 S: 69 v: 0.05017937539887407 RS: 72
+Player 83 S: 55 v: 0.22255864978841822 RS: 43
+Player 62 S: 44 v: 0.21358198456602073 RS: 39
+Player 22 S: 52 v: 0.2116236698503463 RS: 59
+Player 25 S: 55 v: 0.014962235042943306 RS: 54
+///////////////////////
+//Team 2: 
+Player 98 S: 56 v: 0.004190290804962249 RS: 56
+Player 57 S: 57 v: 0.42965161128199447 RS: 33
+Player 31 S: 53 v: 0.3943888927320347 RS: 64
+Player 72 S: 55 v: 0.4404592592268585 RS: 66
+Player 64 S: 66 v: 0.2849532536546279 RS: 82
+Team 1 average Rating: 1258.3996294842443
+Team 2 average Rating: 1291.6656882769819
+///////////////////////
+16 wurde gewürfelt, Player 56 hat 1 bis 54, deshalb gewinnt er.
+Player 31 hat 55 bis 99, deshalb verliert er.
+Player 56 killed Player 31
+Team1 won Round1 Es steht Team1: 1 Team2: 0
+86 wurde gewürfelt, Player 57 hat 70 bis 99, deshalb gewinnt er.
+Player 56 hat 1 bis 69, deshalb verliert er.
+Player 57 killed Player 56
+Team2 won Round2 Es steht Team1: 1 Team2: 1
+68 wurde gewürfelt, Player 64 hat 30 bis 99, deshalb gewinnt er.
+Player 62 hat 1 bis 29, deshalb verliert er.
+Player 64 killed Player 62
+Team2 won Round3 Es steht Team1: 1 Team2: 2
+1 wurde gewürfelt, Player 83 hat 1 bis 31, deshalb gewinnt er.
+Player 64 hat 32 bis 99, deshalb verliert er.
+Player 83 killed Player 64
+Team1 won Round4 Es steht Team1: 2 Team2: 2
+31 wurde gewürfelt, Player 83 hat 1 bis 55, deshalb gewinnt er.
+Player 57 hat 56 bis 99, deshalb verliert er.
+Player 83 killed Player 57
+Team1 won Round5 Es steht Team1: 3 Team2: 2
+44 wurde gewürfelt, Player 72 hat 38 bis 99, deshalb gewinnt er.
+Player 62 hat 1 bis 37, deshalb verliert er.
+Player 72 killed Player 62
+Team2 won Round6 Es steht Team1: 3 Team2: 3
+72 wurde gewürfelt, Player 98 hat 59 bis 99, deshalb gewinnt er.
+Player 56 hat 1 bis 58, deshalb verliert er.
+Player 98 killed Player 56
+Team2 won Round7 Es steht Team1: 3 Team2: 4
+74 wurde gewürfelt, Player 31 hat 46 bis 99, deshalb gewinnt er.
+Player 25 hat 1 bis 45, deshalb verliert er.
+Player 31 killed Player 25
+Team2 won Round8 Es steht Team1: 3 Team2: 5
+59 wurde gewürfelt, Player 98 hat 45 bis 99, deshalb gewinnt er.
+Player 83 hat 1 bis 44, deshalb verliert er.
+Player 98 killed Player 83
+Team2 won Round9 Es steht Team1: 3 Team2: 6
+46 wurde gewürfelt, Player 31 hat 46 bis 99, deshalb gewinnt er.
+Player 25 hat 1 bis 45, deshalb verliert er.
+Player 31 killed Player 25
+Team2 won Round10 Es steht Team1: 3 Team2: 7
+69 wurde gewürfelt, Player 98 hat 59 bis 99, deshalb gewinnt er.
+Player 56 hat 1 bis 58, deshalb verliert er.
+Player 98 killed Player 56
+Team2 won Round11 Es steht Team1: 3 Team2: 8
+96 wurde gewürfelt, Player 31 hat 41 bis 99, deshalb gewinnt er.
+Player 83 hat 1 bis 40, deshalb verliert er.
+Player 31 killed Player 83
+Team2 won Round12 Es steht Team1: 3 Team2: 9
+81 wurde gewürfelt, Player 31 hat 55 bis 99, deshalb gewinnt er.
+Player 56 hat 1 bis 54, deshalb verliert er.
+Player 31 killed Player 56
+Team2 won Round13 Es steht Team1: 3 Team2: 10
+91 wurde gewürfelt, Player 31 hat 41 bis 99, deshalb gewinnt er.
+Player 83 hat 1 bis 40, deshalb verliert er.
+Player 31 killed Player 83
+Team2 won Round14 Es steht Team1: 3 Team2: 11
+93 wurde gewürfelt, Player 64 hat 46 bis 99, deshalb gewinnt er.
+Player 56 hat 1 bis 45, deshalb verliert er.
+Player 64 killed Player 56
+Team2 won Round15 Es steht Team1: 3 Team2: 12
+0 wurde gewürfelt, Player 62 hat 1 bis 29, deshalb gewinnt er.
+Player 64 hat 30 bis 99, deshalb verliert er.
+Player 62 killed Player 64
+Team1 won Round16 Es steht Team1: 4 Team2: 12
+30 wurde gewürfelt, Player 22 hat 1 bis 39, deshalb gewinnt er.
+Player 64 hat 40 bis 99, deshalb verliert er.
+Player 22 killed Player 64
+Team1 won Round17 Es steht Team1: 5 Team2: 12
+40 wurde gewürfelt, Player 62 hat 1 bis 53, deshalb gewinnt er.
+Player 57 hat 54 bis 99, deshalb verliert er.
+Player 62 killed Player 57
+Team1 won Round18 Es steht Team1: 6 Team2: 12
+86 wurde gewürfelt, Player 64 hat 40 bis 99, deshalb gewinnt er.
+Player 22 hat 1 bis 39, deshalb verliert er.
+Player 64 killed Player 22
+Team2 won Round19 Es steht Team1: 6 Team2: 13
+17 wurde gewürfelt, Player 25 hat 1 bis 45, deshalb gewinnt er.
+Player 31 hat 46 bis 99, deshalb verliert er.
+Player 25 killed Player 31
+Team1 won Round20 Es steht Team1: 7 Team2: 13
+18 wurde gewürfelt, Player 25 hat 1 bis 45, deshalb gewinnt er.
+Player 31 hat 46 bis 99, deshalb verliert er.
+Player 25 killed Player 31
+Team1 won Round21 Es steht Team1: 8 Team2: 13
+82 wurde gewürfelt, Player 31 hat 55 bis 99, deshalb gewinnt er.
+Player 56 hat 1 bis 54, deshalb verliert er.
+Player 31 killed Player 56
+Team2 won Round22 Es steht Team1: 8 Team2: 14
+50 wurde gewürfelt, Player 98 hat 43 bis 99, deshalb gewinnt er.
+Player 62 hat 1 bis 42, deshalb verliert er.
+Player 98 killed Player 62
+Team2 won Round23 Es steht Team1: 8 Team2: 15
+88 wurde gewürfelt, Player 98 hat 50 bis 99, deshalb gewinnt er.
+Player 25 hat 1 bis 49, deshalb verliert er.
+Player 98 killed Player 25
+Team2 won Round24 Es steht Team1: 8 Team2: 16
+Team 2 hat gewonnen.
+Player 56 Kills: 21 Deaths: 20
+Player 83 Kills: 13 Deaths: 20
+Player 62 Kills: 17 Deaths: 21
+Player 22 Kills: 11 Deaths: 19
+Player 25 Kills: 22 Deaths: 18
+Player 98 Kills: 15 Deaths: 15
+Player 57 Kills: 19 Deaths: 20
+Player 31 Kills: 18 Deaths: 15
+Player 72 Kills: 15 Deaths: 18
+Player 64 Kills: 31 Deaths: 16
+Elopunkte vor dem Spiel
+Team1: 
+Player 56: 1577.0354313508878
+Player 83: 1172.0216196673903
+Player 62: 1082.2124250959469
+Player 22: 1240.236879152493
+Player 25: 1220.4917921545043
+Team2: 
+Player 98: 1268.163693582929
+Player 57: 1284.4444711656945
+Player 31: 1200.9619895126875
+Player 72: 1299.6419699527792
+Player 64: 1405.1163171708206
+Elopunkte nach dem Spiel
+Team1: 
+Player 56: 1574.8510307811307
+Player 83: 1169.2428243847742
+Player 62: 1079.7308271697602
+Player 22: 1237.309485191662
+Player 25: 1218.3816909238546
+Team2: 
+Player 98: 1270.367199697028
+Player 57: 1286.902717871019
+Player 31: 1203.3565510702056
+Player 72: 1301.845476066878
+Player 64: 1408.338785649821
